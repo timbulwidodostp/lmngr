@@ -3,6 +3,8 @@ Geary Non Normality Lagrange Multiplier Runs Test Use lmngr With STATA 19
 
 Geary Lagrange Multiplier non normality runs test for OLS residuals Use lmngr With STATA 19
 
+https://www.youtube.com/watch?v=RBpjVNGIOV0
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
